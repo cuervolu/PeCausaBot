@@ -1,0 +1,20 @@
+# Ignorar los directorios y archivos generados por Node.js
+node_modules/
+dist/
+
+# Ignorar los archivos compilados de TypeScript
+*.js
+*.js.map
+
+# Ignorar archivos de configuración de tu IDE/editor de código
+.vscode/
+.idea/
+
+# Ignorar archivos de configuración de TypeScript
+tsconfig.json
+tsconfig.tsbuildinfo
+
+# Ignorar archivos de entorno local
+.env
+.dev.env
+
